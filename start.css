@@ -1,0 +1,61 @@
+*,*::before,*::after{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+body{
+    background: url(perfume.png);
+    font-family: poppins;
+    height: 100vh;
+
+}
+.head{
+    background-color:
+    #FEFEFE ;
+    margin: 50px 60px 30px 60px;
+    width: 600px;
+    padding: 40px 70px 30px 30px;
+    border-radius: 26px;
+    
+
+
+}
+
+.perfume{
+    color: #00B152;
+    /* margin-bottom: 20px; */
+    font-weight: 600;
+    font-size: 24px;
+    font-size: 24px;
+    font-family: poppins;
+    padding: 30px 40px 30px 10px;
+}
+h2{
+    color: #043931;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: poppins;
+    padding: 10px;
+}
+.price{
+    font-size: 36px;
+    font-weight: 600;
+    font-family: poppins;
+    color: #264852;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+p{
+    width: 350px;
+}
+button{
+    background-color: #102A2D;
+    color: #FEFEFE;
+    text-align: center;
+    padding: 8px;
+    border-radius: 50px;
+    border-style: none;
+    width: 100px
+    ;
+}
+
